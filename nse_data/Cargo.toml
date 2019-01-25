@@ -1,0 +1,14 @@
+[package]
+name = "nse_data"
+version = "0.1.0"
+authors = ["David Muchene <davidmuchene@gmail.com>"]
+
+[dependencies]
+postgres = "0.11"
+hyper = "0.7"
+html5ever = "0.5"
+select = "0.2"
+regex = "0.1"
+log = "0.3"
+env_logger = "0.3"
+time = "0.1"
